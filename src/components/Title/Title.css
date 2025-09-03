@@ -1,0 +1,14 @@
+.title {
+  text-align: center;
+  color: rgb(236, 232, 240);
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 70px 0 30px;
+}
+.title h1 {
+  font-size: 32px;
+  color: seashell;
+  margin-top: 5px;
+  text-transform: none;
+}
