@@ -35,15 +35,15 @@ const Contact = () => {
     <div className="contact">
       <div className="contact-col">
         <h3>
-          send us a message <img src={msg_icon} alt="" />
+          Send us a Message <img src={msg_icon} alt="" />
         </h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos,
-          architecto ullam cupiditate nostrum officia officiis quo reiciendis
-          eaque aliquam. Fugiat aperiam blanditiis soluta minus quis vero
-          laborum fuga! Odit eum accusantium, a assumenda enim molestiae ab,
-          perspiciatis accusamus culpa esse nulla quibusdam sed excepturi,
-          molestias laborum quis magnam veritatis nihil.
+          At Shiksha, we are always here to assist students, parents, and
+          visitors. Whether you have queries about admissions, courses, or
+          campus facilities, our support team is just a call or email away. You
+          can reach us through our official phone number, email, or visit us at
+          our campus in Bengaluru. Stay connected with us on our social media
+          platforms for the latest updates and announcements.
         </p>
         <ul>
           <li>

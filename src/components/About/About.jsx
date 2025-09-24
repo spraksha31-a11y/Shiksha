@@ -19,13 +19,19 @@ const About = ({ setPlaystate }) => {
       </div>
       <div className="about-right">
         <h3>About University </h3>
-        <h2>nurturing tomorrow's leaders tpday</h2>
+        <h2>Nurturing tomorrow's leaders today</h2>
         <p>
-          lorem 50 years of excellence in education and research, t he
-          university has been a beacon of knowledge and innovation. With a
-          diverse student body and a commitment to fostering critical thinking,
-          the universit y offers a wide range of programs across various
-          disciplines.
+          Shiksha University is a premier institution dedicated to excellence in
+          education, research, and innovation. With a vision to nurture future
+          leaders and professionals, Shiksha offers a wide range of
+          undergraduate, postgraduate, and research programs across diverse
+          disciplines. Our state-of-the-art infrastructure, experienced faculty,
+          and student-focused approach create an environment that fosters
+          learning and growth. At Shiksha, we emphasize not only academic
+          excellence but also values, creativity, and practical skills,
+          preparing students to meet global challenges. Committed to holistic
+          development, Shiksha University stands as a hub of knowledge,
+          innovation, and opportunities for aspiring learners.
         </p>
         <p>
           Our faculty mebers are renowned experts in their fields, dedicated to
@@ -33,13 +39,6 @@ const About = ({ setPlaystate }) => {
           boasts state-of-the-art fac ilities, including modern classrooms,
           research labs, and recreational areas, ensuring students have access
           to the resources they need to succeed.
-        </p>
-        <p>
-          Beyond academics, the university encourages students to participate in
-          extracurricula r activities, community service, and global exchange
-          programs, promoting holist ic development. Join us at the university
-          to embark on a transformative educati onal journey that prepares you
-          for a successful future.
         </p>
       </div>
     </div>

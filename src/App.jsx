@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import Program from "./components/program/program";
+import Program from "./components/Program/Program";
 import Title from "./components/Title/Title";
 import About from "./components/About/About";
 import Campus from "./components/Campus/Campus";
@@ -18,15 +18,15 @@ const App = () => {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title title="what we offer" subtitle="our program" />
+        <Title title="WHAT WE OFFER" subtitle="Our Program" />
         <Program />
-        <Title title="About Us" />
+        <Title title="ABOUT US" />
         <About setPlaystate={setPlaystate} />
-        <Title title="Campus Photos" subtitle="Gallery" />
+        <Title title="CAMPUS PHOTOS" subtitle="Gallery" />
         <Campus />
-        <Title title="TESTIMONIALS" subtitle="What student says" />
+        <Title title="TESTIMONIALS" subtitle="What Student says" />
         <Testimonials />
-        <Title title="contact us" subtitle="get in touch" />
+        <Title title="CONTACT US" subtitle="Get in touch" />
         <Contact />
         <Footer />
       </div>

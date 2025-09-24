@@ -4,10 +4,10 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <p> all rights reserved</p>
+      <p> All Rights Reserved</p>
       <ul>
-        <li>terms of service</li>
-        <li>privacy policy</li>
+        <li>Terms of Service</li>
+        <li>Privacy Policy</li>
       </ul>
     </div>
   );

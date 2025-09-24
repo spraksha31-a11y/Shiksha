@@ -41,18 +41,18 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>ABC</h3>
-                  <span>Edusity,USA</span>
+                  <h3>Ananya Sharma</h3>
+                  <span>B.Tech,Computer Science, 2024 Batch</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                obcaecati dolores rem voluptate voluptates suscipit id
-                quibusdam, nulla incidunt eveniet sequi facilis accusamus labore
-                officiis quod modi mollitia cum temporibus. Et, quibusdam!
-                Commodi enim mollitia quos quod dicta quidem molestiae?
-                Molestiae libero officia laboriosam velit nam fugiat iste dolor
-                deserunt.
+                "My MBA experience at \[University Name] was enriching both
+                academically and professionally. The case-study approach,
+                industry seminars, and internship opportunities helped me apply
+                classroom knowledge to real business challenges. I gained
+                valuable insights into financial markets and leadership. The
+                dedicated career cell ensured I was well-prepared for
+                placements, helping me land a rewarding role."
               </p>
             </div>
           </li>
@@ -62,18 +62,17 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_2} alt="" />
                 <div>
-                  <h3>DEF</h3>
-                  <span>Edusity,USA</span>
+                  <h3>Rohan Verma</h3>
+                  <span>MBA Finance, 2023 Batch</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                obcaecati dolores rem voluptate voluptates suscipit id
-                quibusdam, nulla incidunt eveniet sequi facilis accusamus labore
-                officiis quod modi mollitia cum temporibus. Et, quibusdam!
-                Commodi enim mollitia quos quod dicta quidem molestiae?
-                Molestiae libero officia laboriosam velit nam fugiat iste dolor
-                deserunt.
+                "Studying at Shiksha has been an incredible journey of learning
+                and growth. The curriculum is well-structured, and the faculty
+                always encouraged innovation through projects and research. With
+                strong placement guidance, I secured an exciting role in
+                software development. The supportive environment here shaped my
+                skills and gave me the confidence to succeed in the industry."
               </p>
             </div>
           </li>
@@ -83,18 +82,18 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>GHI</h3>
-                  <span>Edusity,USA</span>
+                  <h3>Sneha Iyer</h3>
+                  <span>B.A.Psychology, 2025 Batch</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                obcaecati dolores rem voluptate voluptates suscipit id
-                quibusdam, nulla incidunt eveniet sequi facilis accusamus labore
-                officiis quod modi mollitia cum temporibus. Et, quibusdam!
-                Commodi enim mollitia quos quod dicta quidem molestiae?
-                Molestiae libero officia laboriosam velit nam fugiat iste dolor
-                deserunt.
+                "Life at Shiksha has been transformative in many ways. The
+                Psychology program is engaging, with a balance of theory and
+                practical exposure through workshops and field visits. Faculty
+                guidance and mentoring encouraged me to think critically and
+                empathetically. Beyond academics, cultural and social activities
+                helped me develop leadership qualities, teamwork skills, and
+                lifelong friendships."
               </p>
             </div>
           </li>
@@ -104,18 +103,18 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>JKL</h3>
-                  <span>Edusity,USA</span>
+                  <h3>Aditya Rao</h3>
+                  <span>B.Tech Electronics & Communication, 2024 Batch</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-                obcaecati dolores rem voluptate voluptates suscipit id
-                quibusdam, nulla incidunt eveniet sequi facilis accusamus labore
-                officiis quod modi mollitia cum temporibus. Et, quibusdam!
-                Commodi enim mollitia quos quod dicta quidem molestiae?
-                Molestiae libero officia laboriosam velit nam fugiat iste dolor
-                deserunt.
+                "Choosing Shiksha for my ECE program was the best decision I
+                made. The well-equipped labs and innovative curriculum gave me
+                hands-on exposure to IoT and VLSI. Participation in
+                national-level competitions boosted my confidence and
+                problem-solving skills. Placement training sessions provided the
+                right preparation, helping me secure a role in a reputed core
+                electronics company."
               </p>
             </div>
           </li>

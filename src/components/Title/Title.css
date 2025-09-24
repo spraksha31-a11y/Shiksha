@@ -8,7 +8,10 @@
 }
 .title h1 {
   font-size: 32px;
-  color: seashell;
+  color: rgb(14, 13, 12);
   margin-top: 5px;
   text-transform: none;
+}
+.title p {
+  color: rgb(14, 13, 12);
 }
